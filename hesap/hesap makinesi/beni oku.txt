@@ -1,0 +1,8 @@
+Hocam merhabalar dosya benim bilgisayarımda çalışırken hiçbir sorunla karşılaşmıyorum fakat rar dosyası yapınca .rex ve .cs dosyaları değiştirilmiş veya kaldırılmış olabilir şeklinde hata veriyor bu sorunu çözemiyorum. rar şeklinde atacağım. siz açtığınızda yine dosya bulunamıyor hatası verecek ama rardan çıkartıp açarsanız başlata basınca hesap makinesi çalışıyor olacaktır. 
+
+212701059
+Boran dora evmez
+
+Lütfen rardan çıkarıp açmayı unutmayın yoksa açılmıyor.Eğer yine olmazsa yanınıza gelip kendi laptopumdan gösterebilirim
+
+hayırlı günler iyi çalışmalar

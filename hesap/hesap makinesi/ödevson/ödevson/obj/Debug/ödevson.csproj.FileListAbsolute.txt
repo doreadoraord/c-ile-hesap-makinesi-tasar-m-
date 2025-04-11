@@ -1,0 +1,15 @@
+C:\Users\BORAN DORA\Desktop\okul\görsel programlama\ödevson\ödevson\bin\Debug\ödevson.exe.config
+C:\Users\BORAN DORA\Desktop\okul\görsel programlama\ödevson\ödevson\bin\Debug\ödevson.exe
+C:\Users\BORAN DORA\Desktop\okul\görsel programlama\ödevson\ödevson\bin\Debug\ödevson.pdb
+C:\Users\BORAN DORA\Desktop\okul\görsel programlama\ödevson\ödevson\obj\Debug\ödevson.csproj.AssemblyReference.cache
+C:\Users\BORAN DORA\Desktop\okul\görsel programlama\ödevson\ödevson\obj\Debug\ödevson.Form1.resources
+C:\Users\BORAN DORA\Desktop\okul\görsel programlama\ödevson\ödevson\obj\Debug\ödevson.Properties.Resources.resources
+C:\Users\BORAN DORA\Desktop\okul\görsel programlama\ödevson\ödevson\obj\Debug\ödevson.csproj.GenerateResource.cache
+C:\Users\BORAN DORA\Desktop\okul\görsel programlama\ödevson\ödevson\obj\Debug\ödevson.csproj.CoreCompileInputs.cache
+C:\Users\BORAN DORA\Desktop\okul\görsel programlama\ödevson\ödevson\obj\Debug\ödevson.exe
+C:\Users\BORAN DORA\Desktop\okul\görsel programlama\ödevson\ödevson\obj\Debug\ödevson.pdb
+C:\Users\BORAN DORA\Desktop\212701059_Borandoraevmez_hesapmakinesi\ödevson\ödevson\obj\Debug\ödevson.csproj.AssemblyReference.cache
+C:\Users\BORAN DORA\Desktop\212701059_Borandoraevmez_hesapmakinesi\ödevson\ödevson\obj\Debug\ödevson.Properties.Resources.resources
+C:\Users\BORAN DORA\Desktop\212701059_Borandoraevmez_hesapmakinesi\ödevson\ödevson\obj\Debug\ödevson.csproj.GenerateResource.cache
+C:\Users\BORAN DORA\Desktop\212701059_Borandoraevmez_hesapmakinesi\ödevson\ödevson\obj\Debug\ödevson.exe
+C:\Users\BORAN DORA\Desktop\212701059_Borandoraevmez_hesapmakinesi\ödevson\ödevson\obj\Debug\ödevson.pdb
